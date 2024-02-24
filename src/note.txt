@@ -1,0 +1,7 @@
+Redux
+
+reducer: viết logic update state
+
+mapStateToProps: lấy data từ redux
+
+mapDispatchToProps: đẩy data lên redux
